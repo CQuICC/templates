@@ -20,7 +20,7 @@
 \ProcessOptions
 
 % ANY PACKAGES REQUIRED BY COMMANDS TO BE DECLARED WITH \usepackage(...) IN THE PREAMBLE OF YOUR TEX FILE CAN GO HERE INSTEAD 
-\RequirePackage{inputenc,crop,graphicx,amsmath,array,color,amssymb,flushend,stfloats,amsthm,chngpage,times,lipsum,braket, url, xcolor}
+\RequirePackage{inputenc,crop,graphicx,amsmath,array,color,amssymb,flushend,stfloats,amsthm,chngpage,times,lipsum,braket, url, xcolor, siunitx}
 \RequirePackage[english]{babel}
 
 % Colour
